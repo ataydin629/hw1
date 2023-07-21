@@ -1,2 +1,3 @@
 # hw1
-ödev 1
+
+HTML Ödevime ait dosyalar.
